@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="极限" tvg-name="极限" tvg-logo="" group-title="花园",极限
+http://live.urren.net:80/live/74d71f9d8e148b700112fd739a68be71.flv
+#EXTINF:-1 tvg-id="happy" tvg-name="happy" tvg-logo="" group-title="花园",happy
+http://live.urren.net:80/live/33fbf1d4659b86a8df822864fb499cef.flv
+#EXTINF:-1 tvg-id="香蕉" tvg-name="香蕉" tvg-logo="" group-title="花园",香蕉
+http://live.urren.net:80/live/4401ab661f2c43ee1b6d8aeea7a66816.flv
+#EXTINF:-1 tvg-id="惊艳" tvg-name="惊艳" tvg-logo="" group-title="花园",惊艳
+http://live.urren.net:80/live/9dfac089963b27870d7aa225450aedec.flv
+#EXTINF:-1 tvg-id="潘朵拉" tvg-name="潘朵拉" tvg-logo="" group-title="花园",潘朵拉
+http://live.urren.net:80/live/0f664a1806c06dbf0e16b9b408a08989.flv
+#EXTINF:-1 tvg-id="彩虹电影" tvg-name="彩虹电影" tvg-logo="" group-title="花园",彩虹电影
+http://live.urren.net:80/live/2e51fe8c9315b3f6f1b275a6d4b1822b.flv
+#EXTINF:-1 tvg-id="K频道" tvg-name="K频道" tvg-logo="" group-title="花园",K频道
+http://live.urren.net:80/live/933e72c8671daa657f86f9ac2240c2e8.flv
+#EXTINF:-1 tvg-id="E频道" tvg-name="E频道" tvg-logo="" group-title="花园",E频道
+http://live.urren.net:80/live/6b8e2ef39b06ea18a6294daeb383bba6.flv
+#EXTINF:-1 tvg-id="松视3" tvg-name="松视3" tvg-logo="" group-title="花园",松视3
+http://live.urren.net:80/live/af2e6c1c23e014be912891d60bf208a7.flv
+#EXTINF:-1 tvg-id="松视1" tvg-name="松视1" tvg-logo="" group-title="花园",松视1
+http://live.urren.net:80/live/4053a1b0ceed876d88955c73a9386e48.flv
+#EXTINF:-1 tvg-id="彩虹1臺" tvg-name="彩虹1臺" tvg-logo="" group-title="黑软",彩虹1臺
+http://live.urren.net/live/4053a1b0ceed876d88955c73a9386e48.flv
+#EXTINF:-1 tvg-id="彩虹2臺" tvg-name="彩虹2臺" tvg-logo="" group-title="黑软",彩虹2臺
+http://live.urren.net/live/7c9744616f041fe68d268a98e6e8143e.flv
+#EXTINF:-1 tvg-id="彩虹3臺" tvg-name="彩虹3臺" tvg-logo="" group-title="黑软",彩虹3臺
+http://live.urren.net/live/af2e6c1c23e014be912891d60bf208a7.flv
+#EXTINF:-1 tvg-id="彩虹E臺" tvg-name="彩虹E臺" tvg-logo="" group-title="黑软",彩虹E臺
+http://live.urren.net/live/6b8e2ef39b06ea18a6294daeb383bba6.flv
+#EXTINF:-1 tvg-id="彩虹K臺" tvg-name="彩虹K臺" tvg-logo="" group-title="黑软",彩虹K臺
+http://live.urren.net/live/933e72c8671daa657f86f9ac2240c2e8.flv
+#EXTINF:-1 tvg-id="彩虹电影" tvg-name="彩虹电影" tvg-logo="" group-title="黑软",彩虹电影
+http://live.urren.net/live/2e51fe8c9315b3f6f1b275a6d4b1822b.flv
+#EXTINF:-1 tvg-id="彩虹多拉" tvg-name="彩虹多拉" tvg-logo="" group-title="黑软",彩虹多拉
+http://live.urren.net/live/0f664a1806c06dbf0e16b9b408a08989.flv
+#EXTINF:-1 tvg-id="彩虹惊艳" tvg-name="彩虹惊艳" tvg-logo="" group-title="黑软",彩虹惊艳
+http://live.urren.net/live/9dfac089963b27870d7aa225450aedec.flv
+#EXTINF:-1 tvg-id="彩虹香蕉" tvg-name="彩虹香蕉" tvg-logo="" group-title="黑软",彩虹香蕉
+http://live.urren.net/live/4401ab661f2c43ee1b6d8aeea7a66816.flv
+#EXTINF:-1 tvg-id="彩虹HAPPY" tvg-name="彩虹HAPPY" tvg-logo="" group-title="黑软",彩虹HAPPY
+http://live.urren.net/live/33fbf1d4659b86a8df822864fb499cef.flv
+#EXTINF:-1 tvg-id="彩虹極致" tvg-name="彩虹極致" tvg-logo="" group-title="黑软",彩虹極致
+http://live.urren.net/live/74d71f9d8e148b700112fd739a68be71.flv
+#EXTINF:-1 tvg-id="驚艷" tvg-name="驚艷" tvg-logo="" group-title="花园备用",驚艷
+http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/85.ts
+#EXTINF:-1 tvg-id="潘朵拉完美" tvg-name="潘朵拉完美" tvg-logo="" group-title="花园备用",潘朵拉完美
+http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/86.ts
+#EXTINF:-1 tvg-id="松視1台" tvg-name="松視1台" tvg-logo="" group-title="花园备用",松視1台
+http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/88.ts
+#EXTINF:-1 tvg-id="松視2台" tvg-name="松視2台" tvg-logo="" group-title="花园备用",松視2台
+http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/89.ts
