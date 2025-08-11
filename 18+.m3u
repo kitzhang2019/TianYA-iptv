@@ -1,49 +1,51 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-id="JSTAR譫?剞蜿ｰ逕ｵ蠖ｱ鬚鷹％" tvg-name="JSTAR譫?剞蜿ｰ逕ｵ蠖ｱ鬚鷹％" tvg-logo="" group-title="闃ｱ蝗ｭ",JSTAR譫?剞蜿ｰ逕ｵ蠖ｱ鬚鷹％
+#EXTM3U
+#EXTINF:-1 tvg-id="JSTAR极限台电影频道" tvg-name="JSTAR极限台电影频道" tvg-logo="" group-title="花园",JSTAR极限台电影频道
 http://live.urren.net:80/live/74d71f9d8e148b700112fd739a68be71.flv
-#EXTINF:-1 tvg-id="HAPPY" tvg-name="HAPPY" tvg-logo="" group-title="闃ｱ蝗ｭ",HAPPY
+#EXTINF:-1 tvg-id="HAPPY" tvg-name="HAPPY" tvg-logo="" group-title="花园",HAPPY
 http://live.urren.net:80/live/33fbf1d4659b86a8df822864fb499cef.flv
-#EXTINF:-1 tvg-id="鬥呵負蜿ｰ" tvg-name="鬥呵負蜿ｰ" tvg-logo="" group-title="闃ｱ蝗ｭ",鬥呵負蜿ｰ
+#EXTINF:-1 tvg-id="香蕉台" tvg-name="香蕉台" tvg-logo="" group-title="花园",香蕉台
 http://live.urren.net:80/live/4401ab661f2c43ee1b6d8aeea7a66816.flv
-#EXTINF:-1 tvg-id="諠願乙謌蝉ｺｺ逕ｵ蠖ｱ蜿ｰ" tvg-name="諠願乙謌蝉ｺｺ逕ｵ蠖ｱ蜿ｰ" tvg-logo="" group-title="闃ｱ蝗ｭ",諠願乙謌蝉ｺｺ逕ｵ蠖ｱ蜿ｰ
+#EXTINF:-1 tvg-id="惊艳成人电影台" tvg-name="惊艳成人电影台" tvg-logo="" group-title="花园",惊艳成人电影台
 http://live.urren.net:80/live/9dfac089963b27870d7aa225450aedec.flv
-#EXTINF:-1 tvg-id="貎俶愀蝠ｦ鬮倡判雍ｨ邊臥ｺ｢蜿ｰ" tvg-name="貎俶愀蝠ｦ鬮倡判雍ｨ邊臥ｺ｢蜿ｰ" tvg-logo="" group-title="闃ｱ蝗ｭ",貎俶愀蝠ｦ鬮倡判雍ｨ邊臥ｺ｢蜿ｰ
+#EXTINF:-1 tvg-id="潘朵啦高画质粉红台" tvg-name="潘朵啦高画质粉红台" tvg-logo="" group-title="花园",潘朵啦高画质粉红台
 http://live.urren.net:80/live/0f664a1806c06dbf0e16b9b408a08989.flv
-#EXTINF:-1 tvg-id="蠖ｩ陌ｹ逕ｵ蠖ｱ蜿ｰ" tvg-name="蠖ｩ陌ｹ逕ｵ蠖ｱ蜿ｰ" tvg-logo="" group-title="闃ｱ蝗ｭ",蠖ｩ陌ｹ逕ｵ蠖ｱ蜿ｰ
+#EXTINF:-1 tvg-id="彩虹电影台" tvg-name="彩虹电影台" tvg-logo="" group-title="花园",彩虹电影台
 http://live.urren.net:80/live/2e51fe8c9315b3f6f1b275a6d4b1822b.flv
-#EXTINF:-1 tvg-id="K鬚鷹％" tvg-name="K鬚鷹％" tvg-logo="" group-title="闃ｱ蝗ｭ",K鬚鷹％
+#EXTINF:-1 tvg-id="K频道" tvg-name="K频道" tvg-logo="" group-title="花园",K频道
 http://live.urren.net:80/live/933e72c8671daa657f86f9ac2240c2e8.flv
-#EXTINF:-1 tvg-id="蠖ｩ陌ｹE蜿ｰ" tvg-name="蠖ｩ陌ｹE蜿ｰ" tvg-logo="" group-title="闃ｱ蝗ｭ",蠖ｩ陌ｹE蜿ｰ
+#EXTINF:-1 tvg-id="彩虹E台" tvg-name="彩虹E台" tvg-logo="" group-title="花园",彩虹E台
 http://live.urren.net:80/live/6b8e2ef39b06ea18a6294daeb383bba6.flv
-#EXTINF:-1 tvg-id="譚ｾ隗?蜿ｰ" tvg-name="譚ｾ隗?蜿ｰ" tvg-logo="" group-title="闃ｱ蝗ｭ",譚ｾ隗?蜿ｰ
+#EXTINF:-1 tvg-id="松视3台" tvg-name="松视3台" tvg-logo="" group-title="花园",松视3台
 http://live.urren.net:80/live/af2e6c1c23e014be912891d60bf208a7.flv
-#EXTINF:-1 tvg-id="譚ｾ隗?蜿ｰ" tvg-name="譚ｾ隗?蜿ｰ" tvg-logo="" group-title="闃ｱ蝗ｭ",譚ｾ隗?蜿ｰ
+#EXTINF:-1 tvg-id="松视1台" tvg-name="松视1台" tvg-logo="" group-title="花园",松视1台
 http://live.urren.net:80/live/4053a1b0ceed876d88955c73a9386e48.flv
-#EXTINF:-1 tvg-id="譚ｾ隗?蜿ｰ" tvg-name="譚ｾ隗?蜿ｰ" tvg-logo="" group-title="鮟題ｽｯ",譚ｾ隗?蜿ｰ
+#EXTINF:-1 tvg-id="松视1台" tvg-name="松视1台" tvg-logo="" group-title="黑软",松视1台
 http://live.urren.net:80/live/77bcc6f5048fd90693ca6d4e9090f355.flv
-#EXTINF:-1 tvg-id="譚ｾ隗?蜿ｰ" tvg-name="譚ｾ隗?蜿ｰ" tvg-logo="" group-title="鮟題ｽｯ",譚ｾ隗?蜿ｰ
+#EXTINF:-1 tvg-id="松视2台" tvg-name="松视2台" tvg-logo="" group-title="黑软",松视2台
 http://live.urren.net/live/7c9744616f041fe68d268a98e6e8143e.flv
-#EXTINF:-1 tvg-id="譚ｾ隗?蜿ｰ" tvg-name="譚ｾ隗?蜿ｰ" tvg-logo="" group-title="鮟題ｽｯ",譚ｾ隗?蜿ｰ
+#EXTINF:-1 tvg-id="松视3台" tvg-name="松视3台" tvg-logo="" group-title="黑软",松视3台
 http://live.urren.net:80/live/6b94f91696e67b79dfea0b2ce567eae4.flv
-#EXTINF:-1 tvg-id="蠖ｩ陌ｹE蜿ｰ" tvg-name="蠖ｩ陌ｹE蜿ｰ" tvg-logo="" group-title="鮟題ｽｯ",蠖ｩ陌ｹE蜿ｰ
+#EXTINF:-1 tvg-id="彩虹E台" tvg-name="彩虹E台" tvg-logo="" group-title="黑软",彩虹E台
 http://live.urren.net:80/live/af0744000d2401ae554cb9eb48a60c6e.flv
-#EXTINF:-1 tvg-id="K鬚鷹％" tvg-name="K鬚鷹％" tvg-logo="" group-title="鮟題ｽｯ",K鬚鷹％
+#EXTINF:-1 tvg-id="K频道" tvg-name="K频道" tvg-logo="" group-title="黑软",K频道
 http://live.urren.net:80/live/2d437b700b7cf5e2f1e151bb56a18106.flv
-#EXTINF:-1 tvg-id="蠖ｩ陌ｹ逕ｵ蠖ｱ蜿ｰ" tvg-name="蠖ｩ陌ｹ逕ｵ蠖ｱ蜿ｰ" tvg-logo="" group-title="鮟題ｽｯ",蠖ｩ陌ｹ逕ｵ蠖ｱ蜿ｰ
+#EXTINF:-1 tvg-id="彩虹电影台" tvg-name="彩虹电影台" tvg-logo="" group-title="黑软",彩虹电影台
 http://live.urren.net:80/live/2dee9843071ce6246085f7c9f8ed0c30.flv
-#EXTINF:-1 tvg-id="貎俶愀蝠ｦ鬮倡判雍ｨ邊臥ｺ｢蜿ｰ" tvg-name="貎俶愀蝠ｦ鬮倡判雍ｨ邊臥ｺ｢蜿ｰ" tvg-logo="" group-title="鮟題ｽｯ",貎俶愀蝠ｦ鬮倡判雍ｨ邊臥ｺ｢蜿ｰ
+#EXTINF:-1 tvg-id="潘朵啦高画质粉红台" tvg-name="潘朵啦高画质粉红台" tvg-logo="" group-title="黑软",潘朵啦高画质粉红台
 http://live.urren.net:80/live/f258bf9f6ebe125acee7040cb8850b60.flv
-#EXTINF:-1 tvg-id="諠願乙謌蝉ｺｺ逕ｵ蠖ｱ蜿ｰ" tvg-name="諠願乙謌蝉ｺｺ逕ｵ蠖ｱ蜿ｰ" tvg-logo="" group-title="鮟題ｽｯ",諠願乙謌蝉ｺｺ逕ｵ蠖ｱ蜿ｰ
+#EXTINF:-1 tvg-id="惊艳成人电影台" tvg-name="惊艳成人电影台" tvg-logo="" group-title="黑软",惊艳成人电影台
 http://live.urren.net:80/live/0eae960627e37d3c10a61c4d79d0db87.flv
-#EXTINF:-1 tvg-id="HAPPY" tvg-name="HAPPY" tvg-logo="" group-title="鮟題ｽｯ",HAPPY
+#EXTINF:-1 tvg-id="彩虹香蕉" tvg-name="彩虹香蕉" tvg-logo="" group-title="黑软",彩虹香蕉
+http://live.urren.net/live/4401ab661f2c43ee1b6d8aeea7a66816.flv
+#EXTINF:-1 tvg-id="HAPPY" tvg-name="HAPPY" tvg-logo="" group-title="黑软",HAPPY
 http://live.urren.net:80/live/a70dd4fb976af5a380aabfbf774d8105.flv
-#EXTINF:-1 tvg-id="JSTAR譫?剞蜿ｰ逕ｵ蠖ｱ鬚鷹％" tvg-name="JSTAR譫?剞蜿ｰ逕ｵ蠖ｱ鬚鷹％" tvg-logo="" group-title="鮟題ｽｯ",JSTAR譫?剞蜿ｰ逕ｵ蠖ｱ鬚鷹％
+#EXTINF:-1 tvg-id="JSTAR极限台电影频道" tvg-name="JSTAR极限台电影频道" tvg-logo="" group-title="黑软",JSTAR极限台电影频道
 http://live.urren.net:80/live/22e01f585bb066742bef545c5fc9c088.flv
-#EXTINF:-1 tvg-id="諠願乙謌蝉ｺｺ逕ｵ蠖ｱ蜿ｰ" tvg-name="諠願乙謌蝉ｺｺ逕ｵ蠖ｱ蜿ｰ" tvg-logo="" group-title="闃ｱ蝗ｭ螟?畑",諠願乙謌蝉ｺｺ逕ｵ蠖ｱ蜿ｰ
+#EXTINF:-1 tvg-id="惊艳成人电影台" tvg-name="惊艳成人电影台" tvg-logo="" group-title="花园备用",惊艳成人电影台
 http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/85.ts
-#EXTINF:-1 tvg-id="貎俶愀蝠ｦ鬮倡判雍ｨ邊臥ｺ｢蜿ｰ" tvg-name="貎俶愀蝠ｦ鬮倡判雍ｨ邊臥ｺ｢蜿ｰ" tvg-logo="" group-title="闃ｱ蝗ｭ螟?畑",貎俶愀蝠ｦ鬮倡判雍ｨ邊臥ｺ｢蜿ｰ
+#EXTINF:-1 tvg-id="潘朵啦高画质粉红台" tvg-name="潘朵啦高画质粉红台" tvg-logo="" group-title="花园备用",潘朵啦高画质粉红台
 http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/86.ts
-#EXTINF:-1 tvg-id="譚ｾ隗?蜿ｰ" tvg-name="譚ｾ隗?蜿ｰ" tvg-logo="" group-title="闃ｱ蝗ｭ螟?畑",譚ｾ隗?蜿ｰ
+#EXTINF:-1 tvg-id="松视1台" tvg-name="松视1台" tvg-logo="" group-title="花园备用",松视1台
 http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/88.ts
-#EXTINF:-1 tvg-id="譚ｾ隗?蜿ｰ" tvg-name="譚ｾ隗?蜿ｰ" tvg-logo="" group-title="闃ｱ蝗ｭ螟?畑",譚ｾ隗?蜿ｰ
+#EXTINF:-1 tvg-id="松视2台" tvg-name="松视2台" tvg-logo="" group-title="花园备用",松视2台
 http://15.204.105.50:25461/live/G2s9zK2n9m/ezvrFwxGfA/89.ts
