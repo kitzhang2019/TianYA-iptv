@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="JSTAR极限台电影频道" tvg-name="JSTAR极限台电影频道" tvg-logo="" group-title="花园",JSTAR极限台电影频道
-http://live.urren.net:80/live/74d71f9d8e148b700112fd739a68be71.flv
+http://devpulllive.xylink.com:80/live/3524e3b898cb781c53bef362571df32f.flv
 #EXTINF:-1 tvg-id="HAPPY" tvg-name="HAPPY" tvg-logo="" group-title="花园",HAPPY
-http://live.urren.net:80/live/33fbf1d4659b86a8df822864fb499cef.flv
+http://devpulllive.xylink.com:80/live/d5322ab790b66fb32e073617ab13975c.flv
 #EXTINF:-1 tvg-id="香蕉台" tvg-name="香蕉台" tvg-logo="" group-title="花园",香蕉台
-http://live.urren.net:80/live/4401ab661f2c43ee1b6d8aeea7a66816.flv
+http://devpulllive.xylink.com:80/live/a8b893f3738b3dda17b1dde85007da0a.flv
 #EXTINF:-1 tvg-id="惊艳成人电影台" tvg-name="惊艳成人电影台" tvg-logo="" group-title="花园",惊艳成人电影台
-http://live.urren.net:80/live/9dfac089963b27870d7aa225450aedec.flv
+http://devpulllive.xylink.com:80/live/b58c6f99f3db8c64639b4e43d1dd1dfa.flv
 #EXTINF:-1 tvg-id="潘朵啦高画质粉红台" tvg-name="潘朵啦高画质粉红台" tvg-logo="" group-title="花园",潘朵啦高画质粉红台
-http://live.urren.net:80/live/0f664a1806c06dbf0e16b9b408a08989.flv
+http://devpulllive.xylink.com:80/live/8adda0f33503324266827ff097dfb84a.flv
 #EXTINF:-1 tvg-id="彩虹电影台" tvg-name="彩虹电影台" tvg-logo="" group-title="花园",彩虹电影台
-http://live.urren.net:80/live/2e51fe8c9315b3f6f1b275a6d4b1822b.flv
+http://devpulllive.xylink.com:80/live/9881b8cccbc57c534d5f4c48c0024f92.flv
 #EXTINF:-1 tvg-id="K频道" tvg-name="K频道" tvg-logo="" group-title="花园",K频道
-http://live.urren.net:80/live/933e72c8671daa657f86f9ac2240c2e8.flv
+http://devpulllive.xylink.com:80/live/cdb1f80eb3dd5daba8086aa4de85e3ef.flv
 #EXTINF:-1 tvg-id="彩虹E台" tvg-name="彩虹E台" tvg-logo="" group-title="花园",彩虹E台
-http://live.urren.net:80/live/6b8e2ef39b06ea18a6294daeb383bba6.flv
+http://devpulllive.xylink.com:80/live/ceb235644591282b7b1f142d1ef1042e.flv
 #EXTINF:-1 tvg-id="松视3台" tvg-name="松视3台" tvg-logo="" group-title="花园",松视3台
-http://live.urren.net:80/live/af2e6c1c23e014be912891d60bf208a7.flv
+http://devpulllive.xylink.com:80/live/a0633a4f3713b47c4355f4115aedf5d1.flv
 #EXTINF:-1 tvg-id="松视1台" tvg-name="松视1台" tvg-logo="" group-title="花园",松视1台
-http://live.urren.net:80/live/4053a1b0ceed876d88955c73a9386e48.flv
+http://devpulllive.xylink.com:80/live/de973a8bfed5d19367ad0079a1f44edf.flv
 #EXTINF:-1 tvg-id="松视1台" tvg-name="松视1台" tvg-logo="" group-title="黑软",松视1台
 http://live.urren.net:80/live/6de9a8c5d19ba3b606b6265f419df847.flv
 #EXTINF:-1 tvg-id="松视2台" tvg-name="松视2台" tvg-logo="" group-title="黑软",松视2台
@@ -49,3 +49,5 @@ http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 #EXTINF:-1 tvg-id="松视2台" tvg-name="松视2台" tvg-logo="" group-title="花园备用",松视2台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+#EXTINF:-1 tvg-id="松视3台" tvg-name="松视3台" tvg-logo="" group-title="花园备用",松视3台
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
