@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="" group-title="中央频道",CCTV1
+http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv1
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="" group-title="中央频道",CCTV2
+http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv2
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="" group-title="中央频道",CCTV3
+http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv3
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="" group-title="中央频道",CCTV4
+http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv4
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="" group-title="中央频道",CCTV5
+http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv5
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="" group-title="中央频道",CCTV6
+http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv6
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="" group-title="中央频道",CCTV7
+http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv7
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="" group-title="中央频道",CCTV8
+http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="" group-title="中央频道",CCTV9
+http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv9
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="" group-title="中央频道",CCTV10
+http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv10
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="" group-title="中央频道",CCTV11
+http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv11
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="" group-title="中央频道",CCTV12
+http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv12
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="" group-title="中央频道",CCTV3
+http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv13
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="" group-title="中央频道",CCTV14
+http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv14
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="" group-title="中央频道",CCTV15
+http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv15
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="" group-title="中央频道",CCTV17
+http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv17
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="" group-title="中央频道",CCTV5+
+http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv5p
