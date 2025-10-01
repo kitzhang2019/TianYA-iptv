@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="" group-title="",CCTV2
+http://fnos.tianyagk.dpdns.org:35455/douyin/rid/296728101980?stream=hls
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="" group-title="",CCTV6
+http://fnos.tianyagk.dpdns.org:35455/douyin/rid/208823316033?stream=hls
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="" group-title="",CCTV7
+http://fnos.tianyagk.dpdns.org:35455/douyin/rid/127453393722?stream=hls
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="" group-title="",CCTV13
+http://fnos.tianyagk.dpdns.org:35455/douyin/rid/870887192950?stream=hls
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="" group-title="",CCTV13
+http://fnos.tianyagk.dpdns.org:35455/douyin/rid/547977714661?stream=hls
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="" group-title="",CCTV17
+http://fnos.tianyagk.dpdns.org:35455/douyin/rid/783811579858?stream=hls
+#EXTINF:-1 tvg-id="央视文艺" tvg-name="央视文艺" tvg-logo="" group-title="",央视文艺
+http://fnos.tianyagk.dpdns.org:35455/douyin/rid/662843050230?stream=hls
