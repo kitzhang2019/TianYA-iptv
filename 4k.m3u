@@ -9,7 +9,7 @@ http://fnos.tianyagk.dpdns.org:5678/zgst.php?id=js4k
 http://fnos.tianyagk.dpdns.org:5678/zgst.php?id=zj4k
 #EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="" group-title="",山东卫视4K
 http://fnos.tianyagk.dpdns.org:5678/zgst.php?id=sd4k
-#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="河南卫视4K" tvg-logo="" group-title="",河南卫视4K
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="" group-title="",河南卫视4K
 http://fnos.tianyagk.dpdns.org:5678/zgst.php?id=hn4k
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="" group-title="",广东卫视4K
 http://fnos.tianyagk.dpdns.org:5678/zgst.php?id=gd4k
