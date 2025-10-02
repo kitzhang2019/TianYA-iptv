@@ -1,15 +1,15 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="" group-title="",CCTV2
+#EXTM3U x-tvg-url="https://11.112114.xyz/pp.xml"
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/CCTV2.png" group-title="央视网",CCTV2
 http://fnos.tianyagk.dpdns.org:35455/douyin/rid/296728101980?stream=hls
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="" group-title="",CCTV6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="央视网",CCTV6
 http://fnos.tianyagk.dpdns.org:35455/douyin/rid/208823316033?stream=hls
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="" group-title="",CCTV7
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://11.112114.xyz/logo/CCTV7.png" group-title="央视网",CCTV7
 http://fnos.tianyagk.dpdns.org:35455/douyin/rid/127453393722?stream=hls
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="" group-title="",CCTV13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://11.112114.xyz/logo/CCTV13.png" group-title="央视网",CCTV13
 http://fnos.tianyagk.dpdns.org:35455/douyin/rid/870887192950?stream=hls
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="" group-title="",CCTV13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://11.112114.xyz/logo/CCTV13.png" group-title="央视网",CCTV13
 http://fnos.tianyagk.dpdns.org:35455/douyin/rid/547977714661?stream=hls
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="" group-title="",CCTV17
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://11.112114.xyz/logo/CCTV17.png" group-title="央视网",CCTV17
 http://fnos.tianyagk.dpdns.org:35455/douyin/rid/783811579858?stream=hls
-#EXTINF:-1 tvg-id="央视文艺" tvg-name="央视文艺" tvg-logo="" group-title="",央视文艺
+#EXTINF:-1 tvg-name="央视文艺" tvg-logo="https://11.112114.xyz/logo/央视文艺.png" group-title="央视网",央视文艺
 http://fnos.tianyagk.dpdns.org:35455/douyin/rid/662843050230?stream=hls
