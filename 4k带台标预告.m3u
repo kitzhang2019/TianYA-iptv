@@ -1,0 +1,19 @@
+#EXTM3U x-tvg-url="https://11.112114.xyz/pp.xml"
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视4K.png" group-title="卫视",北京卫视4K
+http://fnos.tianyagk.dpdns.org:5678/zgst.php?id=btv4k
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视4K.png" group-title="卫视",东方卫视4K
+http://fnos.tianyagk.dpdns.org:5678/zgst.php?id=sh4k
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视4K.png" group-title="卫视",江苏卫视4K
+http://fnos.tianyagk.dpdns.org:5678/zgst.php?id=js4k
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视4K.png" group-title="卫视",浙江卫视4K
+http://fnos.tianyagk.dpdns.org:5678/zgst.php?id=zj4k
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视4K.png" group-title="卫视",山东卫视4K
+http://fnos.tianyagk.dpdns.org:5678/zgst.php?id=sd4k
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视4K.png" group-title="卫视",湖南卫视4K
+http://fnos.tianyagk.dpdns.org:5678/zgst.php?id=hn4k
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://11.112114.xyz/logo/广东卫视4K.png" group-title="卫视",广东卫视4K
+http://fnos.tianyagk.dpdns.org:5678/zgst.php?id=gd4k
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://11.112114.xyz/logo/四川卫视4K.png" group-title="卫视",四川卫视4K
+http://fnos.tianyagk.dpdns.org:5678/zgst.php?id=sc4k
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视4K.png" group-title="卫视",深圳卫视4K
+http://fnos.tianyagk.dpdns.org:5678/zgst.php?id=sz4k
