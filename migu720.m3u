@@ -37,7 +37,7 @@ http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=673168256
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=608807419
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://11.112114.xyz/logo/CCTV4美洲.png" group-title="央视"",CCTV4美洲
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=608807416
-#EXTINF:-1 tvg-id="CGTN外语纪录" tvg-name="CGTN外语纪录" tvg-logo="https://11.112114.xyz/logo/CGTN外语纪录.png" group-title="央视"",CGTN外语纪录
+#EXTINF:-1 tvg-id="CGTN外语纪录" tvg-name="CGTN外语纪录" tvg-logo="https://11.112114.xyz/logo/CGTN外语.png" group-title="央视"",CGTN外语纪录
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=609006487
 #EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://11.112114.xyz/logo/CGTN阿拉伯语.png" group-title="央视"",CGTN阿拉伯语
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=609154345
@@ -79,7 +79,7 @@ http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=849116810
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=947472502
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://11.112114.xyz/logo/海峡卫视.png" group-title="卫视",海峡卫视
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=849119120
-#EXTINF:-1 tvg-id="中国农林卫视" tvg-name="中国农林卫视" tvg-logo="https://11.112114.xyz/logo/中国农林卫视.png" group-title="卫视",中国农林卫视
+#EXTINF:-1 tvg-id="中国农林卫视" tvg-name="中国农林卫视" tvg-logo="https://11.112114.xyz/logo/农林卫视.png" group-title="卫视",中国农林卫视
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=956904896
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://11.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=956923145
@@ -87,7 +87,7 @@ http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=956923145
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=630291707
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://11.112114.xyz/logo/上海新闻综合.png" group-title="地方",上海新闻综合
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=651632657
-#EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://11.112114.xyz/logo/上视东方影视.png" group-title="地方",上视东方影视
+#EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://11.112114.xyz/logo/东方影视.png" group-title="地方",上视东方影视
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=617290047
 #EXTINF:-1 tvg-id="南京新闻综合频道" tvg-name="南京新闻综合频道" tvg-logo="https://11.112114.xyz/logo/南京新闻综合频道.png" group-title="地方",南京新闻综合频道
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=838109047
@@ -95,23 +95,23 @@ http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=838109047
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=838153729
 #EXTINF:-1 tvg-id="南京十八频道" tvg-name="南京十八频道" tvg-logo="https://11.112114.xyz/logo/南京十八频道.png" group-title="地方",南京十八频道
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=838151753
-#EXTINF:-1 tvg-id="江苏城市频道" tvg-name="江苏城市频道" tvg-logo="https://11.112114.xyz/logo/江苏城市频道.png" group-title="地方",江苏城市频道
+#EXTINF:-1 tvg-id="江苏城市频道" tvg-name="江苏城市频道" tvg-logo="https://11.112114.xyz/logo/江苏城市.png" group-title="地方",江苏城市频道
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=626064714
 #EXTINF:-1 tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="https://11.112114.xyz/logo/江苏国际.png" group-title="地方",江苏国际
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=626064674
 #EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://11.112114.xyz/logo/江苏教育.png" group-title="地方",江苏教育
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=628008321
-#EXTINF:-1 tvg-id="江苏影视频道" tvg-name="江苏影视频道" tvg-logo="https://11.112114.xyz/logo/江苏影视频道.png" group-title="地方",江苏影视频道
+#EXTINF:-1 tvg-id="江苏影视频道" tvg-name="江苏影视频道" tvg-logo="https://11.112114.xyz/logo/江苏影视.png" group-title="地方",江苏影视频道
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=626064697
-#EXTINF:-1 tvg-id="江苏综艺频道" tvg-name="江苏综艺频道" tvg-logo="https://11.112114.xyz/logo/江苏综艺频道.png" group-title="地方",江苏综艺频道
+#EXTINF:-1 tvg-id="江苏综艺频道" tvg-name="江苏综艺频道" tvg-logo="https://11.112114.xyz/logo/江苏综艺.png" group-title="地方",江苏综艺频道
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=626065193
-#EXTINF:-1 tvg-id="江苏公共新闻频道" tvg-name="江苏公共新闻频道" tvg-logo="https://11.112114.xyz/logo/江苏公共新闻频道.png" group-title="地方",江苏公共新闻频道
+#EXTINF:-1 tvg-id="江苏公共新闻频道" tvg-name="江苏公共新闻频道" tvg-logo="https://11.112114.xyz/logo/江苏公共新闻.png" group-title="地方",江苏公共新闻频道
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=626064693
-#EXTINF:-1 tvg-id="盐城新闻综合" tvg-name="盐城新闻综合" tvg-logo="https://11.112114.xyz/logo/盐城新闻综合.png" group-title="地方",盐城新闻综合
+#EXTINF:-1 tvg-id="盐城新闻综合" tvg-name="盐城新闻综合" tvg-logo="https://11.112114.xyz/logo/盐城新闻.png" group-title="地方",盐城新闻综合
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=639731825
 #EXTINF:-1 tvg-id="淮安新闻综合" tvg-name="淮安新闻综合" tvg-logo="https://11.112114.xyz/logo/淮安新闻综合.png" group-title="地方",淮安新闻综合
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=639731826
-#EXTINF:-1 tvg-id="泰州新闻综合" tvg-name="泰州新闻综合" tvg-logo="https://11.112114.xyz/logo/泰州新闻综合.png" group-title="地方",泰州新闻综合
+#EXTINF:-1 tvg-id="泰州新闻综合" tvg-name="泰州新闻综合" tvg-logo="https://11.112114.xyz/logo/泰州新闻.png" group-title="地方",泰州新闻综合
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=639731818
 #EXTINF:-1 tvg-id="连云港新闻综合" tvg-name="连云港新闻综合" tvg-logo="https://11.112114.xyz/logo/连云港新闻综合.png" group-title="地方",连云港新闻综合
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=639731715
@@ -119,15 +119,15 @@ http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=639731715
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=639731832
 #EXTINF:-1 tvg-id="徐州新闻综合" tvg-name="徐州新闻综合" tvg-logo="https://11.112114.xyz/logo/徐州新闻综合.png" group-title="地方",徐州新闻综合
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=639731747
-#EXTINF:-1 tvg-id="优漫卡通频道" tvg-name="优漫卡通频道" tvg-logo="https://11.112114.xyz/logo/优漫卡通频道.png" group-title="地方",优漫卡通频道
+#EXTINF:-1 tvg-id="优漫卡通频道" tvg-name="优漫卡通频道" tvg-logo="https://11.112114.xyz/logo/优漫卡通.png" group-title="地方",优漫卡通频道
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=626064703
-#EXTINF:-1 tvg-id="江阴新闻综合" tvg-name="江阴新闻综合" tvg-logo="https://11.112114.xyz/logo/阴新闻综合.png" group-title="地方",江阴新闻综合
+#EXTINF:-1 tvg-id="江阴新闻综合" tvg-name="江阴新闻综合" tvg-logo="https://11.112114.xyz/logo/阴新闻.png" group-title="地方",江阴新闻综合
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=955227979
-#EXTINF:-1 tvg-id="南通新闻综合" tvg-name="南通新闻综合" tvg-logo="https://11.112114.xyz/logo/南通新闻综合.png" group-title="地方",南通新闻综合
+#EXTINF:-1 tvg-id="南通新闻综合" tvg-name="南通新闻综合" tvg-logo="https://11.112114.xyz/logo/南通新闻.png" group-title="地方",南通新闻综合
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=955227985
-#EXTINF:-1 tvg-id="宜兴新闻综合" tvg-name="宜兴新闻综合" tvg-logo="https://11.112114.xyz/logo/宜兴新闻综合.png" group-title="地方",宜兴新闻综合
+#EXTINF:-1 tvg-id="宜兴新闻综合" tvg-name="宜兴新闻综合" tvg-logo="https://11.112114.xyz/logo/宜兴新闻.png" group-title="地方",宜兴新闻综合
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=955227996
-#EXTINF:-1 tvg-id="溧水新闻综合" tvg-name="溧水新闻综合" tvg-logo="https://11.112114.xyz/logo/溧水新闻综合.png" group-title="地方",溧水新闻综合
+#EXTINF:-1 tvg-id="溧水新闻综合" tvg-name="溧水新闻综合" tvg-logo="https://11.112114.xyz/logo/溧水新闻.png" group-title="地方",溧水新闻综合
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=639737327
 #EXTINF:-1 tvg-id="陕西银龄频道" tvg-name="陕西银龄频道" tvg-logo="https://11.112114.xyz/logo/陕西银龄频道.png" group-title="地方",陕西银龄频道
 http://fnos.tianyagk.dpdns.org:5678/migu720p.php?id=956909362
