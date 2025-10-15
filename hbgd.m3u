@@ -11,7 +11,7 @@ http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=cctv4
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=cctv5hd
 #EXTINF:-1 tvg-id="CCTV5+高清" tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=cctv5jhd
-#EXTINF:-1 tvg-id="CCTV6高清" tvg-name="CCTV6"tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6
+#EXTINF:-1 tvg-id="CCTV6高清" tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=cctv6hd
 #EXTINF:-1 tvg-id="CCTV7高清" tvg-name="CCTV7" tvg-logo="https://11.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=cctv7hd
@@ -37,51 +37,51 @@ http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=cctv16hd
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=cctv17hd
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://11.112114.xyz/logo/CGTN.png" group-title="央视",CGTN
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=cctvnews
-#EXTINF:-1 tvg-id="湖北卫视高清" tvg-name="湖北卫视高清" tvg-logo="https://11.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视高清
+#EXTINF:-1 tvg-id="湖北卫视高清" tvg-name="湖北卫视" tvg-logo="https://11.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视高清
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=hbwshd
-#EXTINF:-1 tvg-id="湖南卫视高清" tvg-name="湖南卫视高清" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视高清
+#EXTINF:-1 tvg-id="湖南卫视高清" tvg-name="湖南卫视" tvg-logo="https://11.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视高清
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=hnwshd
-#EXTINF:-1 tvg-id="东方卫视高清" tvg-name="东方卫视高清" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视高清
+#EXTINF:-1 tvg-id="东方卫视高清" tvg-name="东方卫视" tvg-logo="https://11.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视高清
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=dfwshd
-#EXTINF:-1 tvg-id="浙江卫视高清" tvg-name="浙江卫视高清" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视高清
+#EXTINF:-1 tvg-id="浙江卫视高清" tvg-name="浙江卫视" tvg-logo="https://11.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视高清
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=zjwshd
-#EXTINF:-1 tvg-id="北京卫视高清" tvg-name="北京卫视高清" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视高清
+#EXTINF:-1 tvg-id="北京卫视高清" tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视高清
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=bjwshd
-#EXTINF:-1 tvg-id="江苏卫视高清" tvg-name="江苏卫视高清" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视高清
+#EXTINF:-1 tvg-id="江苏卫视高清" tvg-name="江苏卫视" tvg-logo="https://11.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视高清
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=jswshd
-#EXTINF:-1 tvg-id="安徽卫视高清" tvg-name="安徽卫视高清" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视高清
+#EXTINF:-1 tvg-id="安徽卫视高清" tvg-name="安徽卫视" tvg-logo="https://11.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视高清
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=ahwshd
-#EXTINF:-1 tvg-id="山东卫视高清" tvg-name="山东卫视高清" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视高清
+#EXTINF:-1 tvg-id="山东卫视高清" tvg-name="山东卫视" tvg-logo="https://11.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视高清
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=sdwdhd
-#EXTINF:-1 tvg-id="河南卫视高清" tvg-name="河南卫视高清" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视高清
+#EXTINF:-1 tvg-id="河南卫视高清" tvg-name="河南卫视" tvg-logo="https://11.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视高清
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=henwshd
-#EXTINF:-1 tvg-id="四川卫视高清" tvg-name="四川卫视高清" tvg-logo="https://11.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视高清
+#EXTINF:-1 tvg-id="四川卫视高清" tvg-name="四川卫视" tvg-logo="https://11.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视高清
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=scwshd
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://11.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=hebws
-#EXTINF:-1 tvg-id="吉林卫视高清" tvg-name="吉林卫视高清" tvg-logo="https://11.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视高清
+#EXTINF:-1 tvg-id="吉林卫视高清" tvg-name="吉林卫视" tvg-logo="https://11.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视高清
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=jlwshd
-#EXTINF:-1 tvg-id="黑龙江卫视高清" tvg-name="黑龙江卫视高清" tvg-logo="https://11.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视高清
+#EXTINF:-1 tvg-id="黑龙江卫视高清" tvg-name="黑龙江卫视" tvg-logo="https://11.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视高清
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=hljwshd
-#EXTINF:-1 tvg-id="辽宁卫视高清" tvg-name="辽宁卫视高清" tvg-logo="https://11.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视高清
+#EXTINF:-1 tvg-id="辽宁卫视高清" tvg-name="辽宁卫视" tvg-logo="https://11.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视高清
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=lnwshd
-#EXTINF:-1 tvg-id="广东卫视高清" tvg-name="广东卫视高清" tvg-logo="https://11.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视高清
+#EXTINF:-1 tvg-id="广东卫视高清" tvg-name="广东卫视" tvg-logo="https://11.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视高清
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=gdwshd
-#EXTINF:-1 tvg-id="深圳卫视高清" tvg-name="深圳卫视高清" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视高清
+#EXTINF:-1 tvg-id="深圳卫视高清" tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视高清
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=szwshd
-#EXTINF:-1 tvg-id="重庆卫视高清" tvg-name="重庆卫视高清" tvg-logo="https://11.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视高清
+#EXTINF:-1 tvg-id="重庆卫视高清" tvg-name="重庆卫视" tvg-logo="https://11.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视高清
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=cqwshd
-#EXTINF:-1 tvg-id="东南卫视高清" tvg-name="东南卫视高清" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视高清
+#EXTINF:-1 tvg-id="东南卫视高清" tvg-name="东南卫视" tvg-logo="https://11.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视高清
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=dnwshd
-#EXTINF:-1 tvg-id="广西卫视高清" tvg-name="广西卫视高清" tvg-logo="https://11.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视高清
+#EXTINF:-1 tvg-id="广西卫视高清" tvg-name="广西卫视" tvg-logo="https://11.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视高清
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=gxwshd
-#EXTINF:-1 tvg-id="贵州卫视高清" tvg-name="贵州卫视高清" tvg-logo="https://11.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视高清
+#EXTINF:-1 tvg-id="贵州卫视高清" tvg-name="贵州卫视" tvg-logo="https://11.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视高清
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=gzwshd
-#EXTINF:-1 tvg-id="江西卫视高清" tvg-name="江西卫视高清" tvg-logo="https://11.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视高清
+#EXTINF:-1 tvg-id="江西卫视高清" tvg-name="江西卫视" tvg-logo="https://11.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视高清
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=jxwshd
-#EXTINF:-1 tvg-id="天津卫视高清" tvg-name="天津卫视高清" tvg-logo="https://11.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视高清
+#EXTINF:-1 tvg-id="天津卫视高清" tvg-name="天津卫视" tvg-logo="https://11.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视高清
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=tjwshd
-#EXTINF:-1 tvg-id="海南卫视高清" tvg-name="海南卫视高清" tvg-logo="https://11.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视高清
+#EXTINF:-1 tvg-id="海南卫视高清" tvg-name="海南卫视" tvg-logo="https://11.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视高清
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=hainwshd
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://11.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=ynws
@@ -113,9 +113,9 @@ http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=sdjyws
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=shjs
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://11.112114.xyz/logo/中国天气.png" group-title="卫视",中国天气
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=zgqx
-#EXTINF:-1 tvg-id="湖北综合高清" tvg-name="湖北综合高清" tvg-logo="https://11.112114.xyz/logo/湖北综合.png" group-title="地方",湖北综合高清
+#EXTINF:-1 tvg-id="湖北综合高清" tvg-name="湖北综合" tvg-logo="https://11.112114.xyz/logo/湖北综合.png" group-title="地方",湖北综合高清
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=hbzhhd
-#EXTINF:-1 tvg-id="湖北公共高清" tvg-name="湖北公共高清" tvg-logo="https://11.112114.xyz/logo/湖北公共.png" group-title="地方",湖北公共高清
+#EXTINF:-1 tvg-id="湖北公共高清" tvg-name="湖北公共" tvg-logo="https://11.112114.xyz/logo/湖北公共.png" group-title="地方",湖北公共高清
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=hbgghd
 #EXTINF:-1 tvg-id="湖北经视" tvg-name="湖北经视" tvg-logo="https://11.112114.xyz/logo/湖北经视.png" group-title="地方",湖北经视
 http://fnos.tianyagk.dpdns.org:5678/hbgd.php?id=hbjsjd
