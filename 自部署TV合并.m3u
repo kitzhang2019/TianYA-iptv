@@ -1,43 +1,44 @@
 #EXTM3U x-tvg-url="https://11.112114.xyz/pp.xml"
-#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://11.112114.xyz/logo/CCTV1综合.png" group-title="央视",CCTV1综合
+#EXTM3U x-tvg-url="https://11.112114.xyz/pp.xml"
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1综合.png" group-title="央视",CCTV1综合
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=608807420
-#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://11.112114.xyz/logo/CCTV2财经.png" group-title="央视"",CCTV2财经
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/CCTV2财经.png" group-title="央视"",CCTV2财经
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=631780532
-#EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="https://11.112114.xyz/logo/CCTV3综艺.png" group-title="央视"",CCTV3综艺
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://11.112114.xyz/logo/CCTV3综艺.png" group-title="央视"",CCTV3综艺
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=624878271
-#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="https://11.112114.xyz/logo/CCTV4中文国际.png" group-title="央视"",CCTV4中文国际
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://11.112114.xyz/logo/CCTV4中文国际.png" group-title="央视"",CCTV4中文国际
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=631780421
-#EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="https://11.112114.xyz/logo/CCTV5体育.png" group-title="央视"",CCTV5体育
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://11.112114.xyz/logo/CCTV5体育.png" group-title="央视"",CCTV5体育
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=641886683
-#EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="https://11.112114.xyz/logo/CCTV5+体育赛事.png" group-title="央视"",CCTV5+体育赛事
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://11.112114.xyz/logo/CCTV5+体育赛事.png" group-title="央视"",CCTV5+体育赛事
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=641886773
-#EXTINF:-1 tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="https://11.112114.xyz/logo/CCTV6.png" group-title="央视"",CCTV6电影
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://11.112114.xyz/logo/CCTV6电影.png" group-title="央视"",CCTV6电影
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=624878396
-#EXTINF:-1 tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="https://11.112114.xyz/logo/CCTV7国防军事.png" group-title="央视"",CCTV7国防军事
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://11.112114.xyz/logo/CCTV7国防军事.png" group-title="央视"",CCTV7国防军事
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=673168121
-#EXTINF:-1 tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="https://11.112114.xyz/logo/CCTV8电视剧.png" group-title="央视"",CCTV8电视剧
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://11.112114.xyz/logo/CCTV8电视剧.png" group-title="央视"",CCTV8电视剧
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=624878356
-#EXTINF:-1 tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="https://11.112114.xyz/logo/CCTV9纪录.png" group-title="央视"",CCTV9纪录
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://11.112114.xyz/logo/CCTV9纪录.png" group-title="央视"",CCTV9纪录
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=673168140
-#EXTINF:-1 tvg-id="CCTV10科教" tvg-name="CCTV10科教" tvg-logo="https://11.112114.xyz/logo/CCTV10科教.png" group-title="央视"",CCTV10科教
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://11.112114.xyz/logo/CCTV10科教.png" group-title="央视"",CCTV10科教
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=624878405
-#EXTINF:-1 tvg-id="CCTV11戏曲" tvg-name="CCTV11戏曲" tvg-logo="https://11.112114.xyz/logo/CCTV11戏曲.png" group-title="央视"",CCTV11戏曲
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://11.112114.xyz/logo/CCTV11戏曲.png" group-title="央视"",CCTV11戏曲
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=667987558
-#EXTINF:-1 tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" tvg-logo="https://11.112114.xyz/logo/CCTV12社会与法.png" group-title="央视"",CCTV12社会与法
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://11.112114.xyz/logo/CCTV12社会与法.png" group-title="央视"",CCTV12社会与法
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=673168185
-#EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="https://11.112114.xyz/logo/CCTV13新闻.png" group-title="央视"",CCTV13新闻
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://11.112114.xyz/logo/CCTV13新闻.png" group-title="央视"",CCTV13新闻
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=608807423
-#EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="https://11.112114.xyz/logo/CCTV14少儿.png" group-title="央视"",CCTV14少儿
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://11.112114.xyz/logo/CCTV14少儿.png" group-title="央视"",CCTV14少儿
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=624878440
-#EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="https://11.112114.xyz/logo/CCTV15音乐.png" group-title="央视"",CCTV15音乐
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://11.112114.xyz/logo/CCTV15音乐.png" group-title="央视"",CCTV15音乐
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=673168223
-#EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="https://11.112114.xyz/logo/CCTV17农业农村.png" group-title="央视"",CCTV17农业农村
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://11.112114.xyz/logo/CCTV17农业农村.png" group-title="央视"",CCTV17农业农村
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=673168256
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://11.112114.xyz/logo/CCTV4欧洲.png" group-title="央视"",CCTV4欧洲
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=608807419
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://11.112114.xyz/logo/CCTV4美洲.png" group-title="央视"",CCTV4美洲
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=608807416
-#EXTINF:-1 tvg-id="CGTN外语纪录" tvg-name="CGTN外语纪录" tvg-logo="https://11.112114.xyz/logo/CGTN外语纪录.png" group-title="央视"",CGTN外语纪录
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://11.112114.xyz/logo/CGTN记录.png" group-title="央视"",CGTN纪录
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=609006487
 #EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://11.112114.xyz/logo/CGTN阿拉伯语.png" group-title="央视"",CGTN阿拉伯语
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=609154345
