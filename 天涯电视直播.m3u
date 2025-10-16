@@ -579,7 +579,7 @@ http://fnos.tianyagk.dpdns.org:4000/956909356
 http://fnos.tianyagk.dpdns.org:4000/915512915
 #EXTINF:-1 svg-id="武术世界" svg-name="武术世界" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/201/202509251348_1758698474363_H32_1080.webp" group-title="体育",武术世界
 http://fnos.tianyagk.dpdns.org:4000/958475359
-#EXTINF:-1 tvg-id="钱塘江" tvg-name="钱塘江" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/613/479/202210281603_5102115888_H32_1080.webp" group-title="风景",钱塘江
+#EXTINF:-1 tvg-id="钱塘江" tvg-name="钱塘江" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/613/479/202210281603_5102115888_H32_1080.webp" group-title="数字",钱塘江
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=647370520
 #EXTINF:-1 tvg-id="五环传奇" tvg-name="五环传奇" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/462/658/202506201045_1750387488185_H32_1080.webp" group-title="体育",五环传奇
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=707671890
