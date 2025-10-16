@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://11.112114.xyz/pp.xml"
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://11.112114.xyz/logo/CCTV4K.png" group-title="4K",CCTV4K
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://11.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4K
 http://fnos.tianyagk.dpdns.org:5080/PHP/cctvnewsapp.php?id=cctv4k
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://11.112114.xyz/logo/北京卫视4K.png" group-title="卫视",北京卫视4K
 http://fnos.tianyagk.dpdns.org:5080/PHP/zgst.php?id=btv4k
