@@ -113,24 +113,6 @@ http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=884121956
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=708869532
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://11.112114.xyz/logo/CGTN.png" group-title="央视"",CGTN
 http://fnos.tianyagk.dpdns.org:5080/PHP/migu720p.php?id=609017205
-#EXTINF:-1 tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视"",CCTV1
-http://fnos.tianyagk.dpdns.org:5080/PHP/cctvnewsapp.php?id=cctv1
-#EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://11.112114.xyz/logo/CCTV2.png" group-title="央视"",CCTV2
-http://fnos.tianyagk.dpdns.org:5080/PHP/cctvnewsapp.php?id=cctv2
-#EXTINF:-1 tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://11.112114.xyz/logo/CCTV4.png" group-title="央视"",CCTV4
-http://fnos.tianyagk.dpdns.org:5080/PHP/cctvnewsapp.php?id=cctv4
-#EXTINF:-1 tvg-id="cctv7" tvg-name="cctv7" tvg-logo="https://11.112114.xyz/logo/CCTV7.png" group-title="央视"",CCTV7
-http://fnos.tianyagk.dpdns.org:5080/PHP/cctvnewsapp.php?id=cctv7
-#EXTINF:-1 tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://11.112114.xyz/logo/CCTV9.png" group-title="央视"",CCTV9
-http://fnos.tianyagk.dpdns.org:5080/PHP/cctvnewsapp.php?id=cctv9
-#EXTINF:-1 tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://11.112114.xyz/logo/CCTV10.png" group-title="央视"",CCTV10
-http://fnos.tianyagk.dpdns.org:5080/PHP/cctvnewsapp.php?id=cctv10
-#EXTINF:-1 tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://11.112114.xyz/logo/CCTV12.png" group-title="央视"",CCTV12
-http://fnos.tianyagk.dpdns.org:5080/PHP/cctvnewsapp.php?id=cctv12
-#EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://11.112114.xyz/logo/CCTV13.png" group-title="央视"",CCTV13
-http://fnos.tianyagk.dpdns.org:5080/PHP/cctvnewsapp.php?id=cctv13
-#EXTINF:-1 tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://11.112114.xyz/logo/CCTV17.png" group-title="央视"",CCTV17
-http://fnos.tianyagk.dpdns.org:5080/PHP/cctvnewsapp.php?id=cctv17
 #EXTINF:-1 tvg-id="CCTV1高清" tvg-name="CCTV1" tvg-logo="https://11.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1高清
 http://fnos.tianyagk.dpdns.org:5080/PHP/hbgd.php?id=cctv1hd
 #EXTINF:-1 tvg-id="CCTV2高清" tvg-name="CCTV2" tvg-logo="https://11.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2高清
