@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="虎牙一起看" tvg-name="虎牙一起看" tvg-logo="" group-title="",虎牙一起看
-#group#
 #EXTINF:-1 tvg-id="007电影" tvg-name="007电影" tvg-logo="" group-title="虎牙.电影",007电影
 http://fnos.tianyagk.dpdns.org:5080/PHP/huya.php?id=21059585
 #EXTINF:-1 tvg-id="周润发" tvg-name="周润发" tvg-logo="" group-title="虎牙.电影",周润发
