@@ -5435,3 +5435,43 @@ http://fnos.tianyagk.dpdns.org:35455/douyu/891203
 http://fnos.tianyagk.dpdns.org:35455/douyu/4860588
 #EXTINF:-1 tvg-id="花猫如风" tvg-name="花猫如风" tvg-logo="" group-title="🐠🐠斗鱼一起看",花猫如风
 http://fnos.tianyagk.dpdns.org:35455/douyu/8507544
+#EXTINF:-1 tvg-id="柯南" tvg-name="柯南" tvg-logo="" group-title="📺📺bili",柯南
+http://fnos.tianyagk.dpdns.org:5080/PHP/bili.php?id=2651701
+#EXTINF:-1 tvg-id="动画片" tvg-name="动画片" tvg-logo="" group-title="📺📺bili",动画片
+http://fnos.tianyagk.dpdns.org:5080/PHP/bili.php?id=27553975
+#EXTINF:-1 tvg-id="少年包青天" tvg-name="少年包青天" tvg-logo="" group-title="📺📺bili",少年包青天
+http://fnos.tianyagk.dpdns.org:5080/PHP/bili.php?id=27554961
+#EXTINF:-1 tvg-id="爱情公寓" tvg-name="爱情公寓" tvg-logo="" group-title="📺📺bili",爱情公寓
+http://fnos.tianyagk.dpdns.org:5080/PHP/bili.php?id=25945302
+#EXTINF:-1 tvg-id="爱情公寓" tvg-name="爱情公寓" tvg-logo="" group-title="📺📺bili",爱情公寓
+http://fnos.tianyagk.dpdns.org:5080/PHP/bili.php?id=32330910
+#EXTINF:-1 tvg-id="爱情公寓" tvg-name="爱情公寓" tvg-logo="" group-title="📺📺bili",爱情公寓
+http://fnos.tianyagk.dpdns.org:5080/PHP/bili.php?id=23832885
+#EXTINF:-1 tvg-id="经典刑侦" tvg-name="经典刑侦" tvg-logo="" group-title="📺📺bili",经典刑侦
+http://fnos.tianyagk.dpdns.org:5080/PHP/bili.php?id=23776217
+#EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="" group-title="📺📺bili",经典电影
+http://fnos.tianyagk.dpdns.org:5080/PHP/bili.php?id=11224983
+#EXTINF:-1 tvg-id="叮当猫" tvg-name="叮当猫" tvg-logo="" group-title="📺📺bili",叮当猫
+http://fnos.tianyagk.dpdns.org:5080/PHP/bili.php?id=1771629624
+#EXTINF:-1 tvg-id="蜡笔小新" tvg-name="蜡笔小新" tvg-logo="" group-title="📺📺bili",蜡笔小新
+http://fnos.tianyagk.dpdns.org:5080/PHP/bili.php?id=22962797
+#EXTINF:-1 tvg-id="少年包青天" tvg-name="少年包青天" tvg-logo="" group-title="📺📺bili",少年包青天
+http://fnos.tianyagk.dpdns.org:5080/PHP/bili.php?id=1878513946
+#EXTINF:-1 tvg-id="经典港剧" tvg-name="经典港剧" tvg-logo="" group-title="📺📺bili",经典港剧
+http://fnos.tianyagk.dpdns.org:5080/PHP/bili.php?id=1861303290
+#EXTINF:-1 tvg-id="龙门镖局" tvg-name="龙门镖局" tvg-logo="" group-title="📺📺bili",龙门镖局
+http://fnos.tianyagk.dpdns.org:5080/PHP/bili.php?id=81789
+#EXTINF:-1 tvg-id="神探狄仁杰" tvg-name="神探狄仁杰" tvg-logo="" group-title="📺📺bili",神探狄仁杰
+http://fnos.tianyagk.dpdns.org:5080/PHP/bili.php?id=1978003235
+#EXTINF:-1 tvg-id="港剧" tvg-name="港剧" tvg-logo="" group-title="📺📺bili",港剧
+http://fnos.tianyagk.dpdns.org:5080/PHP/bili.php?id=1721769534
+#EXTINF:-1 tvg-id="爱回家" tvg-name="爱回家" tvg-logo="" group-title="📺📺bili",爱回家
+http://fnos.tianyagk.dpdns.org:5080/PHP/bili.php?id=24191026
+#EXTINF:-1 tvg-id="射雕 张智霖版" tvg-name="射雕 张智霖版" tvg-logo="" group-title="📺📺bili",射雕 张智霖版
+http://fnos.tianyagk.dpdns.org:5080/PHP/bili.php?id=22832960
+#EXTINF:-1 tvg-id="武林外传" tvg-name="武林外传" tvg-logo="" group-title="📺📺bili",武林外传
+http://fnos.tianyagk.dpdns.org:5080/PHP/bili.php?id=30584266
+#EXTINF:-1 tvg-id="甄嬛传" tvg-name="甄嬛传" tvg-logo="" group-title="📺📺bili",甄嬛传
+http://fnos.tianyagk.dpdns.org:5080/PHP/bili.php?id=24788398
+#EXTINF:-1 tvg-id="电影" tvg-name="电影" tvg-logo="" group-title="📺📺bili",电影
+http://fnos.tianyagk.dpdns.org:5080/PHP/bili.php?id=22450590
