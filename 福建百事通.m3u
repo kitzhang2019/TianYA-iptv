@@ -1,0 +1,195 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV-1HD" tvg-name="CCTV-1HD" tvg-logo="" group-title="",CCTV-1HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/111128@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="CCTV-2HD" tvg-name="CCTV-2HD" tvg-logo="" group-title="",CCTV-2HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/5000036@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="CCTV-3HD" tvg-name="CCTV-3HD" tvg-logo="" group-title="",CCTV-3HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/1369028@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="CCTV-4HD" tvg-name="CCTV-4HD" tvg-logo="" group-title="",CCTV-4HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/1349@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="CCTV-5HD" tvg-name="CCTV-5HD" tvg-logo="" group-title="",CCTV-5HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/1369029@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="CCTV-6HD" tvg-name="CCTV-6HD" tvg-logo="" group-title="",CCTV-6HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/1369030@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="CCTV-7HD" tvg-name="CCTV-7HD" tvg-logo="" group-title="",CCTV-7HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/1352@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="CCTV-8HD" tvg-name="CCTV-8HD" tvg-logo="" group-title="",CCTV-8HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/1369033@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="CCTV-9HD" tvg-name="CCTV-9HD" tvg-logo="" group-title="",CCTV-9HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/5000039@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="CCTV-10HD" tvg-name="CCTV-10HD" tvg-logo="" group-title="",CCTV-10HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/3949784@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="CCTV-11HD" tvg-name="CCTV-11HD" tvg-logo="" group-title="",CCTV-11HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/6000053@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="CCTV-12HD" tvg-name="CCTV-12HD" tvg-logo="" group-title="",CCTV-12HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/5000040@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="CCTV-新闻HD" tvg-name="CCTV-新闻HD" tvg-logo="" group-title="",CCTV-新闻HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/6000054@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="CCTV-少儿HD" tvg-name="CCTV-少儿HD" tvg-logo="" group-title="",CCTV-少儿HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/3949788@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="CCTV-音乐HD" tvg-name="CCTV-音乐HD" tvg-logo="" group-title="",CCTV-音乐HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/6000055@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="CCTV-16HD" tvg-name="CCTV-16HD" tvg-logo="" group-title="",CCTV-16HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/6000061@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="CCTV-17HD" tvg-name="CCTV-17HD" tvg-logo="" group-title="",CCTV-17HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/5000041@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="CCTV-5+HD" tvg-name="CCTV-5+HD" tvg-logo="" group-title="",CCTV-5+HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/6000068@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="" group-title="",CGTN
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/1354@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="辽宁卫视HD" tvg-name="辽宁卫视HD" tvg-logo="" group-title="",辽宁卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/3450001@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="东方卫视HD" tvg-name="东方卫视HD" tvg-logo="" group-title="",东方卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/111131@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="北京卫视HD" tvg-name="北京卫视HD" tvg-logo="" group-title="",北京卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/181361@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="重庆卫视HD" tvg-name="重庆卫视HD" tvg-logo="" group-title="",重庆卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/3840707@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="天津卫视HD" tvg-name="天津卫视HD" tvg-logo="" group-title="",天津卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/3450000@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="湖南卫视HD" tvg-name="湖南卫视HD" tvg-logo="" group-title="",湖南卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/181358@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="浙江卫视HD" tvg-name="浙江卫视HD" tvg-logo="" group-title="",浙江卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/111130@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="江苏卫视HD" tvg-name="江苏卫视HD" tvg-logo="" group-title="",江苏卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/111129@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="贵州卫视HD" tvg-name="贵州卫视HD" tvg-logo="" group-title="",贵州卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/4252663@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="深圳卫视HD" tvg-name="深圳卫视HD" tvg-logo="" group-title="",深圳卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/181362@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="山东卫视HD" tvg-name="山东卫视HD" tvg-logo="" group-title="",山东卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/911992@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="河南卫视HD" tvg-name="河南卫视HD" tvg-logo="" group-title="",河南卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/5000044@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="湖北卫视HD" tvg-name="湖北卫视HD" tvg-logo="" group-title="",湖北卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/911989@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="东南卫视HD" tvg-name="东南卫视HD" tvg-logo="" group-title="",东南卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/3540417@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="广东卫视HD" tvg-name="广东卫视HD" tvg-logo="" group-title="",广东卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/181359@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="四川卫视HD" tvg-name="四川卫视HD" tvg-logo="" group-title="",四川卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/3840706@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="陕西卫视HD" tvg-name="陕西卫视HD" tvg-logo="" group-title="",陕西卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/7105@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="山西卫视HD" tvg-name="山西卫视HD" tvg-logo="" group-title="",山西卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/1344@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="甘肃卫视HD" tvg-name="甘肃卫视HD" tvg-logo="" group-title="",甘肃卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/6000067@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="宁夏卫视HD" tvg-name="宁夏卫视HD" tvg-logo="" group-title="",宁夏卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/160782@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="安徽卫视HD" tvg-name="安徽卫视HD" tvg-logo="" group-title="",安徽卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/3540416@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="吉林卫视HD" tvg-name="吉林卫视HD" tvg-logo="" group-title="",吉林卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/5000046@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="黑龙江卫视HD" tvg-name="黑龙江卫视HD" tvg-logo="" group-title="",黑龙江卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/181356@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="海南卫视HD" tvg-name="海南卫视HD" tvg-logo="" group-title="",海南卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/4252684@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="河北卫视HD" tvg-name="河北卫视HD" tvg-logo="" group-title="",河北卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/100000002@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="云南卫视HD" tvg-name="云南卫视HD" tvg-logo="" group-title="",云南卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/5000043@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="江西卫视HD" tvg-name="江西卫视HD" tvg-logo="" group-title="",江西卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/3468921@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="青海卫视HD" tvg-name="青海卫视HD" tvg-logo="" group-title="",青海卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/67026@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="" group-title="",内蒙古卫视
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/79469@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="广西卫视HD" tvg-name="广西卫视HD" tvg-logo="" group-title="",广西卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/5000045@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="兵团卫视HD" tvg-name="兵团卫视HD" tvg-logo="" group-title="",兵团卫视HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/126389@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="" group-title="",西藏卫视
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/77574@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="" group-title="",新疆卫视
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/126387@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="" group-title="",嘉佳卡通
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/484998@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="金鹰卡通HD" tvg-name="金鹰卡通HD" tvg-logo="" group-title="",金鹰卡通HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/79467@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="金鹰纪实HD" tvg-name="金鹰纪实HD" tvg-logo="" group-title="",金鹰纪实HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/4766929@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="财富天下HD" tvg-name="财富天下HD" tvg-logo="" group-title="",财富天下HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/5000047@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="" group-title="",家庭理财
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/1872767@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="中国教育-1HD" tvg-name="中国教育-1HD" tvg-logo="" group-title="",中国教育-1HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/3138605@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="中国教育-2" tvg-name="中国教育-2" tvg-logo="" group-title="",中国教育-2
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/79471@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="中国教育-4" tvg-name="中国教育-4" tvg-logo="" group-title="",中国教育-4
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/79472@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="欢笑剧场HD" tvg-name="欢笑剧场HD" tvg-logo="" group-title="",欢笑剧场HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/1367710@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="动漫秀场HD" tvg-name="动漫秀场HD" tvg-logo="" group-title="",动漫秀场HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/1555886@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="都市剧场HD" tvg-name="都市剧场HD" tvg-logo="" group-title="",都市剧场HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/1555881@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="快乐垂钓HD" tvg-name="快乐垂钓HD" tvg-logo="" group-title="",快乐垂钓HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/4766930@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="游戏风云HD" tvg-name="游戏风云HD" tvg-logo="" group-title="",游戏风云HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/1555894@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="茶频道HD" tvg-name="茶频道HD" tvg-logo="" group-title="",茶频道HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/6000049@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="生活时尚HD" tvg-name="生活时尚HD" tvg-logo="" group-title="",生活时尚HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/1555893@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="" group-title="",法治天地
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/1373@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="东方财经HD" tvg-name="东方财经HD" tvg-logo="" group-title="",东方财经HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/6880079@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="金色学堂HD" tvg-name="金色学堂HD" tvg-logo="" group-title="",金色学堂HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/4492970@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="东方购物上星HD" tvg-name="东方购物上星HD" tvg-logo="" group-title="",东方购物上星HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/6880080@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="好享购物" tvg-name="好享购物" tvg-logo="" group-title="",好享购物
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/1800368@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="央广购物HD" tvg-name="央广购物HD" tvg-logo="" group-title="",央广购物HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/1168794@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="华语影院HD" tvg-name="华语影院HD" tvg-logo="" group-title="",华语影院HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/3992540@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="星光影院HD" tvg-name="星光影院HD" tvg-logo="" group-title="",星光影院HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/3992541@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="全球大片HD" tvg-name="全球大片HD" tvg-logo="" group-title="",全球大片HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/3992543@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="热门剧场HD" tvg-name="热门剧场HD" tvg-logo="" group-title="",热门剧场HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/3992538@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="谍战剧场HD" tvg-name="谍战剧场HD" tvg-logo="" group-title="",谍战剧场HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/3992539@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="电竞天堂HD" tvg-name="电竞天堂HD" tvg-logo="" group-title="",电竞天堂HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/3992531@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="青春动漫HD" tvg-name="青春动漫HD" tvg-logo="" group-title="",青春动漫HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/3992536@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="宝宝动画HD" tvg-name="宝宝动画HD" tvg-logo="" group-title="",宝宝动画HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/3992535@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="热门综艺HD" tvg-name="热门综艺HD" tvg-logo="" group-title="",热门综艺HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/3992529@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="戏曲精选HD" tvg-name="戏曲精选HD" tvg-logo="" group-title="",戏曲精选HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/3992530@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="百变课堂HD" tvg-name="百变课堂HD" tvg-logo="" group-title="",百变课堂HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/3992537@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="健康养生HD" tvg-name="健康养生HD" tvg-logo="" group-title="",健康养生HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/3992544@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="看天下精选HD" tvg-name="看天下精选HD" tvg-logo="" group-title="",看天下精选HD
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/3992546@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="直播室1" tvg-name="直播室1" tvg-logo="" group-title="",直播室1
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/123222@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="直播室2" tvg-name="直播室2" tvg-logo="" group-title="",直播室2
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/123223@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="直播室3" tvg-name="直播室3" tvg-logo="" group-title="",直播室3
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/123224@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="直播室4" tvg-name="直播室4" tvg-logo="" group-title="",直播室4
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/123225@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="直播室5" tvg-name="直播室5" tvg-logo="" group-title="",直播室5
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=2&id=Umai:CHAN/123226@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="直播室6" tvg-name="直播室6" tvg-logo="" group-title="",直播室6
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/123227@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="直播室7" tvg-name="直播室7" tvg-logo="" group-title="",直播室7
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/123228@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="直播室108" tvg-name="直播室108" tvg-logo="" group-title="",直播室108
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/2197671@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="直播室109" tvg-name="直播室109" tvg-logo="" group-title="",直播室109
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/2197672@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="直播室110" tvg-name="直播室110" tvg-logo="" group-title="",直播室110
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/2197673@BESTV.SMG.SMG
+#EXTINF:-1 tvg-id="直播室111" tvg-name="直播室111" tvg-logo="" group-title="",直播室111
+http://fnos.tianyagk.dpdns.org:5080/PHP/fhbst.php?r=1&t=3&id=Umai:CHAN/2197674@BESTV.SMG.SMG
